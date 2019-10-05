@@ -15,4 +15,4 @@ use Illuminate\Http\Request;
 
 Route::get('gallery', 'ApiController@getGallery');
 Route::get('users', 'ApiController@getUsers');
-Route::put('upload-image', 'ApiController@uploadImage');
+Route::post('upload-image', 'ApiController@uploadImage');
