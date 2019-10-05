@@ -33,7 +33,7 @@ class ProfileSeed extends Seeder
                 "id" => 1,
                 "name" => "Leanne Graham",
                 "username" => "Bret",
-                "img" =>"https =>//qph.fs.quoracdn.net/main-qimg-8c5ea2930025b21f9a394cf0a3b95759",
+                "img" =>"https://qph.fs.quoracdn.net/main-qimg-8c5ea2930025b21f9a394cf0a3b95759",
                 "email" => "Sincere@april.biz",
                 "address" => [
                     "street" => "Kulas Light",
@@ -57,7 +57,7 @@ class ProfileSeed extends Seeder
                 "id" => 2,
                 "name" => "Ervin Howell",
                 "username" => "Antonette",
-                "img" =>"https =>//amp.businessinsider.com/images/5d4ae5ea100a2411da63051d-750-562.jpg",
+                "img" =>"https://amp.businessinsider.com/images/5d4ae5ea100a2411da63051d-750-562.jpg",
                 "email" => "Shanna@melissa.tv",
                 "address" => [
                     "street" => "Victor Plains",
@@ -80,7 +80,7 @@ class ProfileSeed extends Seeder
             [
                 "id" => 3,
                 "name" => "Clementine Bauch",
-                "img" =>"https =>//img.freepik.com/free-psd/young-hispanic-brunette-woman-looking-up-while-smiling_1368-41150.jpg?size=626&ext=jpg",
+                "img" =>"https://img.freepik.com/free-psd/young-hispanic-brunette-woman-looking-up-while-smiling_1368-41150.jpg?size=626&ext=jpg",
                 "username" => "Samantha",
                 "email" => "Nathan@yesenia.net",
                 "address" => [
@@ -104,7 +104,7 @@ class ProfileSeed extends Seeder
             [
                 "id" => 4,
                 "name" => "Patricia Lebsack",
-                "img" =>"https =>//encrypted-tbn0.gstatic.com/images?q=tbn =>ANd9GcQh53xZwvZMDriR8wwhS5eKFFsNFA0DusgzXN59EPtyd-22ypA3YQ",
+                "img" =>"https://encrypted-tbn0.gstatic.com/images?q=tbn =>ANd9GcQh53xZwvZMDriR8wwhS5eKFFsNFA0DusgzXN59EPtyd-22ypA3YQ",
                 "username" => "Karianne",
                 "email" => "Julianne.OConner@kory.org",
                 "address" => [
@@ -128,7 +128,7 @@ class ProfileSeed extends Seeder
             [
                 "id" => 5,
                 "name" => "Chelsey Dietrich",
-                "img" =>"https =>//image.shutterstock.com/image-photo/portrait-young-beautiful-cute-cheerful-260nw-666258808.jpg",
+                "img" =>"https://image.shutterstock.com/image-photo/portrait-young-beautiful-cute-cheerful-260nw-666258808.jpg",
                 "username" => "Kamren",
                 "email" => "Lucio_Hettinger@annie.ca",
                 "address" => [
@@ -152,7 +152,7 @@ class ProfileSeed extends Seeder
             [
                 "id" => 6,
                 "name" => "Mrs. Dennis Schulist",
-                "img" =>"https =>//ca-times.brightspotcdn.com/dims4/default/f68293b/2147483647/strip/true/crop/2048x1152+0+0/resize/840x473!/quality/90/?url=https%3A%2F%2Fca-times.brightspotcdn.com%2Fca%2Fe1%2F1cce3965c9a2b4f20aed93bd0b90%2Fla-1560957011-xf3aqvrdf1-snap-image",
+                "img" =>"https://ca-times.brightspotcdn.com/dims4/default/f68293b/2147483647/strip/true/crop/2048x1152+0+0/resize/840x473!/quality/90/?url=https%3A%2F%2Fca-times.brightspotcdn.com%2Fca%2Fe1%2F1cce3965c9a2b4f20aed93bd0b90%2Fla-1560957011-xf3aqvrdf1-snap-image",
                 "username" => "Leopoldo_Corkery",
                 "email" => "Karley_Dach@jasper.info",
                 "address" => [
@@ -176,7 +176,7 @@ class ProfileSeed extends Seeder
             [
                 "id" => 7,
                 "name" => "Kurtis Weissnat",
-                "img" =>"https =>//www.biography.com/.image/ar_8 =>10%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces =>center%2Cq_auto =>good%2Cw_620/MTU0OTkwNDUxOTQ5MDUzNDQ3/kanye-west-attends-the-christian-dior-show-as-part-of-the-paris-fashion-week-womenswear-fall-winter-2015-2016-on-march-6-2015-in-paris-france-photo-by-dominique-charriau-wireimage-square.jpg",
+                "img" =>"https://www.biography.com/.image/ar_8 =>10%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces =>center%2Cq_auto =>good%2Cw_620/MTU0OTkwNDUxOTQ5MDUzNDQ3/kanye-west-attends-the-christian-dior-show-as-part-of-the-paris-fashion-week-womenswear-fall-winter-2015-2016-on-march-6-2015-in-paris-france-photo-by-dominique-charriau-wireimage-square.jpg",
                 "username" => "Elwyn.Skiles",
                 "email" => "Telly.Hoeger@billy.biz",
                 "address" => [
@@ -200,7 +200,7 @@ class ProfileSeed extends Seeder
             [
                 "id" => 8,
                 "name" => "Nicholas Runolfsdottir V",
-                "img" =>"https =>//static.imoney.ph/articles/wp-content/uploads/2018/08/entrepreneur-e1534096180395.jpg",
+                "img" =>"https://static.imoney.ph/articles/wp-content/uploads/2018/08/entrepreneur-e1534096180395.jpg",
                 "username" => "Maxime_Nienow",
                 "email" => "Sherwood@rosamond.me",
                 "address" => [
@@ -224,7 +224,7 @@ class ProfileSeed extends Seeder
             [
                 "id" => 9,
                 "name" => "Glenna Reichert",
-                "img" =>"https =>//image.shutterstock.com/image-photo/pretty-smiling-joyfully-female-fair-260nw-776697943.jpg",
+                "img" =>"https://image.shutterstock.com/image-photo/pretty-smiling-joyfully-female-fair-260nw-776697943.jpg",
                 "username" => "Delphine",
                 "email" => "Chaim_McDermott@dana.io",
                 "address" => [
@@ -248,7 +248,7 @@ class ProfileSeed extends Seeder
             [
                 "id" => 10,
                 "name" => "Clementina DuBuque",
-                "img" =>"https =>//image.shutterstock.com/image-photo/horizontal-portrait-pleasantlooking-caucasian-female-260nw-696230005.jpg",
+                "img" =>"https://image.shutterstock.com/image-photo/horizontal-portrait-pleasantlooking-caucasian-female-260nw-696230005.jpg",
                 "username" => "Moriah.Stanton",
                 "email" => "Rey.Padberg@karina.biz",
                 "address" => [
